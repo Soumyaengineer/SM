@@ -1,0 +1,7 @@
+Self-check report
+HTML pages: 10
+Missing images: None
+Broken local image references: None
+Missing required skill/process wording: None
+Unwanted visible phrases found: None
+GitHub Pages compatibility: Static HTML/CSS/JS only
